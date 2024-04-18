@@ -1,0 +1,25 @@
+{
+    "name": "ir",
+    "version": "0.0.1",
+    "description": "Emakefun irRmote",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "ReceiverIR.cpp",
+        "ir.ts",
+        "_locales/zh-cn/ir-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}

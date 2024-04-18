@@ -1,0 +1,5 @@
+{
+    "EM_IR.OnPressEvent|block": "当接收到红外值时运行",
+    "EM_IR.EM_IR_read|block": "红外接收的值",
+    "EM_IR.IrRemote_init|block": "遥控器初始化引脚|%pin"
+}
